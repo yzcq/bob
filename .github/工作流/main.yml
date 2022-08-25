@@ -26,6 +26,6 @@ jobs:
       APP_ID: ${{ secrets.wx0dbf7a36c8b391d5}}
       APP_SECRET: ${{ secrets.c1a3fb0b62070c86ca3b1d55921c9bf7}}
       TEMPLATE_ID: ${{ secrets.AFeNw5nk7vavYBgr8r7JB0T_r66-8y-fhm126KOIgnQ}}
-      USER_ID: ${{ secrets.bu-zhi-dao-0}}
+      USER_ID: ${{ secrets.oTyyp6D7x0ODfLI8OWRXmlUuVE8Q}}
       START_DATE: ${{ secrets.2021-03-26}}
       CITY: ${{ secrets.天水市}}
